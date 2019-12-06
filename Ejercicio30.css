@@ -219,6 +219,9 @@ footer #image {
   
   header {
     max-width: 100%;
+    background-image: url('img-ejer-30-movil.jpg');
+    background-size: cover;
+    background-position: center;
   }
 
   header #form h1 {
