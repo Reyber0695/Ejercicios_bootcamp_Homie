@@ -1,6 +1,6 @@
 def sequence(letters)
   letters.each do |letters|
-    return unless ("a".."z").to_a.join.include? (letters.downcase)
+    return unless ("a".."z").to_a.join.include?(letters.downcase)
   end
   
   true
